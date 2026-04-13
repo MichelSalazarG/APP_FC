@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-# voltaje_app
-
-A new Flutter project.
-
+# APP_FC
+Code used for a heart rate app
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -16,6 +13,5 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 =======
-# APP_FC
-Code used for a heart rate app
+
 >>>>>>> a762f06ea6df4190bc275130789964b57c322fd1
